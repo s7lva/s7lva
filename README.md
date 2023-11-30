@@ -10,8 +10,7 @@ Hello Diogo Silva here :)
 <div  align="center"> 
   <div style="display: inline_block"><pt>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">linguagens que uso  <3</h1>
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <h1 align="center"> linguagens que uso <3</h1>
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -29,5 +28,3 @@ Hello Diogo Silva here :)
     <a href = "https://discord.com/channels/@me">
       <img width="35" src="discord.svg">
     </a>
-    
-![Snake animation](https://github.com/s7lva/s7lva/blob/output/github-contribution-grid-snake.svg)
