@@ -21,10 +21,10 @@ Hello Diogo Silva here :)
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.reddit.com/user/AggravatingUsual7624">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="reddit.svg">
     </a>
     <a href = "https://discord.com/channels/@me">
-      <img width="35" src="youtube.svg">
+      <img width="35" src="discord.svg">
     </a>
     
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGF/s7lva/blob/output/github-contribution-grid-snake.svg)
