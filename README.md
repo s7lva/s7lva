@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
+
 Hello Diogo Silva here :)
 
 <div>
@@ -10,7 +13,7 @@ Hello Diogo Silva here :)
 <div  align="center"> 
   <div style="display: inline_block"><pt>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center"> linguagens que uso <3</h1>
+    <h1 align="center"> linguagens que uso </h1>
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -23,3 +26,15 @@ Hello Diogo Silva here :)
   <a href="https://www.reddit.com/user/AggravatingUsual7624" target="_blank"><img src="https://img.shields.io/badge/-reddit-%230077B5?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a> 
   </div>
 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=s7lva&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Diogo Silva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s7lva&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
+
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
