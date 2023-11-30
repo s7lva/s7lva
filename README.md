@@ -18,13 +18,4 @@ Hello Diogo Silva here :)
      </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: ds3455578@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.reddit.com/user/AggravatingUsual7624">
-      <img width="25" src="reddit.svg">
-    </a>
-    <a href = "https://discord.com/channels/@me">
-      <img width="35" src="discord.svg">
-    </a>
+
