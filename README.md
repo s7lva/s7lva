@@ -26,7 +26,7 @@ Hello Diogo Silva here :)
   <a href="https://www.reddit.com/user/AggravatingUsual7624" target="_blank"><img src="https://img.shields.io/badge/-reddit-%230077B5?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a> 
   </div>
 
-<div align="center">
+</div>
 <br><p align="400px"><b>Numero de visitantes </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{s7lva}/count.svg" /></p> 
 <br>
