@@ -27,7 +27,7 @@ Hello Diogo Silva here :)
   </div>
 
 </div>
-<br><p align="400px"><b>Numero de visitantes </b></p>  
+<br><p align="right"><b>Numero de visitantes </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{s7lva}/count.svg" /></p> 
 <br>
 </div>
