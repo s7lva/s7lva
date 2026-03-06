@@ -30,12 +30,3 @@ Sou estudante universitário de **Engenharia Informática** em Portugal. Atualme
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
-
-## ⭐ GitHub Stats
-
-Aqui podes ver o progresso do meu código e as tecnologias que mais utilizo:
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s7lva&layout=compact&theme=vision-friendly-dark" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=s7lva&show_icons=true&theme=vision-friendly-dark" />
-</p>
