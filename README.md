@@ -1,4 +1,4 @@
-# Olá, eu sou o {Diogo Lima Silva}! 👋
+# Olá, eu sou o Diogo Lima Silva! 👋
 
 Sou estudante universitário de **Engenharia Informática** em Portugal. Atualmente, estou focado em construir uma base sólida em computação, explorando desde o desenvolvimento Web até à programação de baixo nível.
 
@@ -8,6 +8,7 @@ Sou estudante universitário de **Engenharia Informática** em Portugal. Atualme
 
 * **Web Development:** Desenvolvi uma página web de desporto completa (Front-end e Back-end), feita inteiramente por mim.
 * **Foco Atual:** 🎯 Especialização em **Linguagem C** e aprofundamento em **Lógica de Programação** e Algoritmos.
+* **futuro** 🚀Pretendo trabalhar com robotica e sistemas de automação.
 * **Contacto:** Podes encontrar-me no Instagram em [@_.diogo._.silva](https://www.instagram.com/_.diogo._.silva) para qualquer questão ou networking.
 
 ---
