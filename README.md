@@ -30,3 +30,8 @@ Sou estudante universitário de **Engenharia Informática** em Portugal. Atualme
 
 
 ---
+
+## 🚀 My Stats
+![Codewars Badge](https://www.codewars.com/users/s7lva/badges/large)
+
+---
