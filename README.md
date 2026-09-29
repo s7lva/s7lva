@@ -1,4 +1,4 @@
-# Olá, eu sou o Diogo Lima Silva! 👋
+# Olá, eu sou o Diogo Lima da Silva! 👋
 
 Sou estudante universitário de **Engenharia Informática** em Portugal. Atualmente, estou focado em construir uma base sólida em computação, explorando desde o desenvolvimento Web até à programação de baixo nível.
 
